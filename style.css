@@ -1,0 +1,113 @@
+#img-devs{
+	height: 400px;
+}
+
+#img-home{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	left:500px;
+	margin-top: 10px;
+}
+
+
+body{
+	background-image: url("img/fundo-home.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+
+}
+
+header nav ul{
+	list-style: none;
+	padding-left: 30px; 
+	text-align: center;
+}
+
+header nav ul li{
+	display: inline-block;
+	text-align: center;
+	padding-right: 40px;
+	font-weight: bold; 
+}
+
+header nav ul li a{
+	font-size: 18px;
+	color: #4c4c4c;
+	text-decoration: none;
+}
+
+header nav ul li a:hover{
+	text-decoration: underline;
+}
+
+#verde{
+	width: 350px;
+	float: left;
+	text-align: justify;
+	padding-top: 40px;
+	padding-left: 200px;
+	font-size: small; 
+	flex-direction: none;
+}
+
+#img-p2{
+	width: 200px;
+	height: 100px;
+}
+
+#o-que-e{
+	width: 350px;
+	float: left;
+	text-align: justify;
+	padding-top: 40px;
+	padding-left: 200px;
+	font-size: small; 
+}
+
+#nossa{
+	font-size: small; 
+	padding-top: 40px;
+	text-align: justify;
+	padding-left: 300px;
+	padding-right: 300px;
+	line-height: 20px;
+
+}
+
+#nossa h2{
+	text-align: center;
+}
+
+#grafico{
+	width: 550px;
+	height: 550px;
+	padding-left: 50px;
+}
+
+footer{
+	padding-top: 50px;
+	text-align: center;
+	font-size: smaller;
+}
+
+#empresa{
+	width: 900px;
+	padding-top: 600px;
+	padding-left: 200px;
+	font-size: small; 
+} 
+
+
+
+#pmes{
+	width: 350px;
+	float: left;
+	text-align: justify;
+	padding-top: 80px;
+	padding-left: 200px;
+	font-size: small; 
+
+}
