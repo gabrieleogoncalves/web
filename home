@@ -1,0 +1,32 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>Home</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+
+	<body id="bhome">
+			<header>
+				<nav>
+					<ul>
+						<li><a href="ti-verde.html">TI VERDE</a></li>
+						<li><a href="home.html">HOME</a></li>
+						<li><a href="nossa-historia.html">NOSSA HISTÓRIA</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<div id="img-home">
+				<img id="img-devs" src="img/logo.png" alt="logo">
+			</div>
+
+			<footer>
+				<p>Site criado por Caio Vitorio e Gabriele Gonçalves. <p>
+			</footer>
+
+		</div>
+	</body>
+
+</html>
